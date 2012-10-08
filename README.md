@@ -1,11 +1,11 @@
-# AjTalk
+# AjGroups
 
-Smalltalk-like Virtual Machine, written in C#. It can compile Smalltalk fileOut to Javascript. Work in Progress.
+A library for finite groups
 
-Blog posts about AjTalk: http://ajlopez.wordpress.com/category/ajtalk
+Blog posts about AjGroup: http://ajlopez.wordpress.com/category/ajgroups
 
 ## Origin
 
-Migrated from my SVN project: http://code.google.com/p/ajtalk/
+2012-10-08 Migrated from https://ajcodekatas.googlecode.com/svn/trunk/AjGroups
 
 
